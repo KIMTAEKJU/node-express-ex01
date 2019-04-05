@@ -1,0 +1,7 @@
+{
+  "name": "node-express-ex01",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "latest"
+  }
+}
